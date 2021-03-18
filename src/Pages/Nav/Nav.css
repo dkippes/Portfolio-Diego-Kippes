@@ -1,0 +1,21 @@
+.navBar {
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	background: black;
+}
+
+.navBar ul {
+	padding: 0;
+	display: flex;
+	justify-content: space-around;
+}
+
+li.navbar-links {
+	list-style-type: none;
+}
+
+.navbar-links a {
+	color: white;
+	text-decoration: none;
+}
